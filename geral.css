@@ -43,3 +43,9 @@ h3{
     height: 50px;
     
 }
+h4{
+    font-size: 100%;
+    text-align: center;
+    width:60%;
+    height: 50px; 
+}
